@@ -1,7 +1,11 @@
 # nodejs-express-ejs
+
 nodejs基于express框架搭建文件上传,ejs动态改变html数据
+
 express一个基于web的框架，可以写一些网站、聊天室、商城为前端提供api,做一些博客之类的，
+
 express的三个常用特性：
+
 1.路由系统，较简单，清晰，好维护。
 2.模板引擎
 3.中间件系统：对请求和响应之间的过程进行处理
