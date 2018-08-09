@@ -9,7 +9,8 @@
 </head>
 
 <body>
-     <!--<%- include('templates/header.ejs') -%>-->
+     <!--导入模板header.ejs-->
+     <%- include('templates/header.ejs') -%>
      <h1><%= person %></h1>
      <form action="/upload" method="post" enctype="multipart/form-data">
           <h2>单图上传</h2>
